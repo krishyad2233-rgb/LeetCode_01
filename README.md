@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0858-mirror-reflection) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
