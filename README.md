@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0036-valid-sudoku) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
