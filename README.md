@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,12 +43,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0058-length-of-last-word) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
