@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0058-length-of-last-word) |
 ## Backtracking
 |  |
