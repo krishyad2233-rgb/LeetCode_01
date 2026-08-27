@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
