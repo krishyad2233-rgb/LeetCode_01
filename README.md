@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0058-length-of-last-word) |
 ## Backtracking
 |  |
@@ -77,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1991-find-the-middle-index-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
