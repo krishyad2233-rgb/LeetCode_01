@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1991-find-the-middle-index-in-array) |
+| [3903-smallest-stable-index-i](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1991-find-the-middle-index-in-array) |
+| [3903-smallest-stable-index-i](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
