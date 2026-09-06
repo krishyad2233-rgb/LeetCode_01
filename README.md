@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0115-distinct-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Backtracking
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0045-jump-game-ii) |
+| [0115-distinct-subsequences](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0115-distinct-subsequences) |
 ## Greedy
 |  |
 | ------- |
