@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0643-maximum-average-subarray-i) |
+| [0766-toeplitz-matrix](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
+| [0766-toeplitz-matrix](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0766-toeplitz-matrix) |
 ## String
 |  |
 | ------- |
