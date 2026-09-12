@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1991-find-the-middle-index-in-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3904-smallest-stable-index-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0035-search-insert-position) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0047-permutations-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
