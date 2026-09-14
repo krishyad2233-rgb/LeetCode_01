@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0836-rectangle-overlap) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
