@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0858-mirror-reflection) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3871-count-commas-in-range-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0858-mirror-reflection) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Least Common Multiple
 |  |
 | ------- |
