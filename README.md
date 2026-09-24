@@ -199,14 +199,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0231-power-of-two) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
