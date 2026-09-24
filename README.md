@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0858-mirror-reflection) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0835-image-overlap) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0047-permutations-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
