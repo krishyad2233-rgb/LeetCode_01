@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0836-rectangle-overlap) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0115-distinct-subsequences) |
+| [0233-number-of-digit-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0233-number-of-digit-one) |
 | [0940-distinct-subsequences-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0233-number-of-digit-one) |
 ## Sliding Window
 |  |
 | ------- |
