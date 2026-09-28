@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0335-self-crossing) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0858-mirror-reflection) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0335-self-crossing) |
 | [0836-rectangle-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0858-mirror-reflection) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
+| [0335-self-crossing](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0335-self-crossing) |
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
