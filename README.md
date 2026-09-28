@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0858-mirror-reflection) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
 | ------- |
