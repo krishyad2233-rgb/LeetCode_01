@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
 | [0335-self-crossing](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0335-self-crossing) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
 ## Tree
 |  |
@@ -291,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0292-nim-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
