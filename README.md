@@ -325,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
