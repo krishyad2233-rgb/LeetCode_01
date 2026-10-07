@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0940-distinct-subsequences-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
