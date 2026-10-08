@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
