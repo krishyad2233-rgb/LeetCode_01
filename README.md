@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1991-find-the-middle-index-in-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3525-find-x-value-of-array-ii) |
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
