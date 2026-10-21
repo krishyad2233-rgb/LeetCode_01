@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0142-linked-list-cycle-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0142-linked-list-cycle-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
