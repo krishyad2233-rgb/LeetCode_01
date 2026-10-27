@@ -291,12 +291,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1096-brace-expansion-ii) |
