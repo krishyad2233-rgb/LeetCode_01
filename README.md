@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0258-add-digits) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0142-linked-list-cycle-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
