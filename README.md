@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0335-self-crossing) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0858-mirror-reflection) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
 | [0335-self-crossing](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0335-self-crossing) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1096-brace-expansion-ii) |
