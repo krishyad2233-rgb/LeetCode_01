@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1052-grumpy-bookstore-owner) |
 | [1254-number-of-closed-islands](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0142-linked-list-cycle-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
