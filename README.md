@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1052-grumpy-bookstore-owner) |
 | [1254-number-of-closed-islands](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3665-twisted-mirror-path-count) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1267-count-servers-that-communicate) |
 ## Tree
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
@@ -460,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishyad2233-rgb/LeetCode_01/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
